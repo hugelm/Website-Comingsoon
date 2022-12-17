@@ -6,7 +6,7 @@ Bootstrap Website Template with video background - "coming soon"
 fork of:\
 https://github.com/StartBootstrap/startbootstrap-coming-soon
 
-Thanks to **[David Miller](https://davidmiller.io/)** and other contributors!
+Thanks to **[David Miller](https://davidmiller.io/)** and other contributors.
 
 ## Copyright and License
 
