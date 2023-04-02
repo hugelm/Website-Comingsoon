@@ -1,4 +1,4 @@
-# Website Template . Comingsoon
+# Website Template - Comingsoon
 
 https://hugelm.github.io/Website-Comingsoon/
 
