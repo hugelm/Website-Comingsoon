@@ -1,6 +1,6 @@
-# Website Template - Comingsoon
+# Description
 
-https://hugelm.github.io/Website-Comingsoon/
+Placeholder for a website that is still under development; based on a Bootstrap template.
 
 ## About
 
