@@ -15,7 +15,7 @@ jobs:
         with:
           username: ${{ secrets.SFTP_USERNAME }}
           server: ${{ secrets.SFTP_SERVER }}
-          port: 48153
+          port: ${{ secrets.SFTP_PORT }}
           local_path: './*'
           remote_path: '/var/www/html/'
           sftp_only: true
