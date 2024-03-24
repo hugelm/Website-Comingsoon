@@ -4,10 +4,15 @@ Placeholder for a website that is still under development; based on a Bootstrap 
 
 ## About
 
-Fork of:\
-https://github.com/StartBootstrap/startbootstrap-coming-soon
+Fork of https://github.com/StartBootstrap/startbootstrap-coming-soon.
 
-Thanks to **[David Miller](https://davidmiller.io/)** and other contributors.
+## Actions & Workflows
+
+Updates GitHub Pages website on every push on selected branch.
+
+Updates remote server (based on secrets) files on every push to "main" branch or when triggered manually.
+
+Secrets are stored on GitHub in Settings/Secrets and variables/Actions/Repository secrets.
 
 ## Docker
 
