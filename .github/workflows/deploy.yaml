@@ -1,6 +1,9 @@
 name: hosting-deployment
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
