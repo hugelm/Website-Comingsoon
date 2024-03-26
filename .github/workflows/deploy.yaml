@@ -1,4 +1,4 @@
-name: hosting-deployment
+name: Workflow hosting-deployment
 
 on:
   push:
@@ -9,11 +9,11 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    name: Deploy to Server
+    name: Deploy to server
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-      - name: Deploy code
+      - name: Deploy files
         uses: wlixcc/SFTP-Deploy-Action@v1.2.4
         with:
           username: ${{ secrets.SFTP_USERNAME }}
