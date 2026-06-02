@@ -12,7 +12,7 @@ Updates GitHub Pages website on every push on selected branch.
 
 Updates remote server (based on secrets) files on every push to "main" branch or when triggered manually.
 
-Secrets are stored on GitHub in Settings/Secrets and variables/Actions/Repository secrets.
+Secrets are stored on GitHub under "Settings/Security and quality/Actions".
 
 ## Docker
 
